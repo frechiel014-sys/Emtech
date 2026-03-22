@@ -48,7 +48,7 @@
     <h1>Frechiel Gargar Besin</h1>
 
     <!-- Image -->
-    <img src="myphoto.jpg" alt="My Photo">
+    <img src="myphoto.jpg.jpg" alt="My Photo">
 
     <!-- About -->
     <h2>About Me</h2>
