@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Besin Family</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            background-color: #f2f2f2;
+            text-align: center;
+        }
+
+        .container{
+            background-color: white;
+            width: 60%;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px gray;
+        }
+
+        h1{
+            color: #2c3e50;
+        }
+
+        h2{
+            color: #34495e;
+        }
+
+        img{
+            width: 200px;
+            border-radius: 50%;
+            margin: 10px;
+        }
+
+        ul, ol{
+            text-align: left;
+            display: inline-block;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <!-- Header -->
+    <h1>Frechiel Gargar Besin</h1>
+
+    <!-- Image -->
+    <img src="myphoto.jpg" alt="My Photo">
+
+    <!-- About -->
+    <h2>About Me</h2>
+    <p>Hello! My name is Frechiel Besin. I am a Grade 12 student who enjoys learning new things and improving my skills. I like spending time with my family and friends and exploring different hobbies.</p>
+
+    <!-- Hobbies -->
+    <h2>My Hobbies</h2>
+    <ul>
+        <li>I love to Cook</li>
+        <li>Watching movies</li>
+        <li>Playing my ukelele</li>
+        <li>Sleeping</li>
+    </ul>
+
+    <!-- Interests -->
+    <h2>My Interests</h2>
+    <ol>
+        <li>Hiking</li>
+        <li>Graphic design</li>
+        <li>Photography</li>
+        <li>Traveling</li>
+    </ol>
+
+</div>
+
+</body>
+</html>
